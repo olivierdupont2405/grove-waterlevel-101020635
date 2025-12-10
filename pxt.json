@@ -1,0 +1,13 @@
+{
+    "name": "grove-waterlevel-101020635",
+    "version": "1.0.0",
+    "description": "Extension MakeCode pour le capteur Grove Water Level Sensor 10 cm (101020635)",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "waterlevel.ts"
+    ],
+    "public": true,
+    "license": "MIT"
+}
